@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Kimhoogli.github.io/reference-uatdi8/sitemap.xml
